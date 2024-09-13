@@ -1,0 +1,28 @@
+h1{
+    color: rgb(246, 238, 238);
+    margin-top: 30px;
+    text-align: center;
+}
+.card{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.baapdiv{
+
+    display:flex;
+    margin-left: 150px;
+    
+    padding-bottom: 250px;
+    
+
+}
+.card{
+    background: transparent;
+    color:aliceblue;
+}
+.button{
+    background: transparent;
+    color:aliceblue;
+    border: none;
+}

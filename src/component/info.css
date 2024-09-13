@@ -1,0 +1,25 @@
+h5{
+    color: rgba(246, 238, 238, 0.751);
+}
+.contactus{
+    display: inline;
+    position: absolute;
+    float: right;
+    margin-left: 200px;
+    margin-top:100px ; 
+   
+  
+} 
+.input-text-email{
+    width: 600px;
+    border-radius: 3px;
+
+}
+.input-text-feedback{
+    width: 600px;
+    height: 200px;
+}
+.form-label{
+    text-align: center;
+    color: rgba(176, 255, 127, 0.528);
+}

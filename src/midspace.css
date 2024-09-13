@@ -1,0 +1,36 @@
+#passage {
+
+     /* background-image: url('https://images.pexels.com/photos/27308308/pexels-photo-27308308/free-photo-of-lofoten-islands-of-norway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); 
+    background-image: url('C:\Users\Admin\OneDrive - Inovaantage Pte Ltd\Desktop\Real-project\my-app\public\succ.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    /*  
+
+   Other styles 
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; */
+    /* margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;  */
+display: flex;  
+ padding: 30px;  
+ column-gap: 50px; 
+ font-family: 'Courier New', Courier, monospace; 
+ 
+}
+
+
+h1 a{
+color: whitesmoke;
+width: 40px;
+text-decoration-line: none; 
+font-family: 'Courier New', Courier, monospace;
+} 
+#yy{
+ width: 600px; 
+ font-family: 'Courier New', Courier, monospace;
+
+
+}

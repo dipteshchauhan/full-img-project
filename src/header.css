@@ -1,0 +1,49 @@
+#nav{
+    
+    color: whitesmoke; 
+    font-family: 'Courier New', Courier, monospace;
+    
+   /* height: 50px; */
+    text-align: center; 
+    display: inline;
+
+}
+ul li{
+    display: inline;
+     margin: 50px;
+}
+ #navv{
+    width: 1300px; 
+    height: 60px;
+    padding-top: 25px; 
+     vertical-align: middle;  
+     
+}
+ 
+.buttonln li button{
+    background: transparent;
+    border:none;
+    cursor: pointer;
+    color: aliceblue;
+    
+    
+}
+#buttonln li button :hover{
+    text-decoration: underline;
+}
+#navlink{
+    color: aliceblue;
+    text-decoration:none;
+}
+
+#signin{
+    
+    color:aliceblue;
+    background: transparent;
+    border: none;
+    text-decoration: none;
+    
+}
+#signindiv{
+    display: flex;
+}
